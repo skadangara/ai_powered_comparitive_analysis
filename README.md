@@ -1,7 +1,10 @@
 
 # Project Title
 
-Automated Comparative Analysis of Github READMEs.
+AI-Powered Automated Comparative Analysis of GitHub READMEs.
+
+# Summary
+This project automates the comparative analysis of GitHub README files using AI, with a particular focus on identifying and analyzing Zero-Knowledge Proof (ZKP) related projects. Leveraging the GPT-4o language model and built on the LangGraph framework, the system follows a structured workflow: it filters raw data, classifies projects, extracts relevant information, and determines common comparison dimensions such as licensing, programming language, community support, and testing frameworks. Developed in Python, this AI-driven tool streamlines the extraction of standardized insights from diverse README formats, enabling efficient project evaluation and comparison.
 
 # Prerequisites
 Install necessary libraries from the requirements.txt file.
